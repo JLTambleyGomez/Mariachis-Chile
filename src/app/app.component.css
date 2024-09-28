@@ -1,0 +1,24 @@
+
+.bg-cream {
+  background-color: #FFF8E1;
+}
+
+.bg-primary {
+  background-color: #FF6F61;
+}
+
+.bg-secondary {
+  background-color: #FFD700;
+}
+
+.text-primary {
+  color: #FF6F61;
+}
+
+.text-secondary {
+  color: #FFD700;
+}
+
+.drop-shadow-lg {
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
