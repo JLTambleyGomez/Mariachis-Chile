@@ -3,6 +3,8 @@ import { RouterOutlet } from '@angular/router';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
+
+
 @Component({
   selector: 'app-root',
   standalone: true,
